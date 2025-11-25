@@ -1,2 +1,3 @@
-Basic Calculator in C
+ # Calculator
+Basic Calculator in C  
 Thank u, have fun :)
